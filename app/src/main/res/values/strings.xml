@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mvvmhabit</string>
+    <string name="customactivityoncrash_error_activity_error_occurred_explanation">An unexpected error occurred\ N sorry for the inconvenience</string>
+    <string name="customactivityoncrash_error_activity_restart_app">Restart</string>
+    <string name="customactivityoncrash_error_activity_close_app">close program</string>
+    <string name="customactivityoncrash_error_activity_error_details">Error log</string>
+    <string name="customactivityoncrash_error_activity_error_details_title">Error details</string>
+    <string name="customactivityoncrash_error_activity_error_details_close">close</string>
+    <string name="customactivityoncrash_error_activity_error_details_copy">Copy log</string>
+    <string name="customactivityoncrash_error_activity_error_details_copied">Copy log</string>
+    <string name="customactivityoncrash_error_activity_error_details_clipboard_label">error message</string>
+</resources>
